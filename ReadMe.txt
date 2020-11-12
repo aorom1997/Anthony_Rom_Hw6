@@ -8,5 +8,4 @@ Date: November 12, 2020
 Description: I feel that I was successful. I was able to use jQuery to set the restrictions and set it to create the table after valid information was set.
 All links:
 
-
-
+https://aorom1997.github.io/Anthony_Rom_Hw6/
