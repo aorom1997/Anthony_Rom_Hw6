@@ -2,9 +2,8 @@
 Name: Anthony Rom
 Email: anthony_rom@student.uml.edu
 Affiliation: UMass Lowell Senior; Computer Science Major, UTeach Minor
-Date: November 12, 2020
-Description: This is the javascript file to add a behavior layer for HW6. I added methods and used
-.validate to set rules for the class inputValue.
+Date: November 27, 2020
+Description: This is the javascript file to add a behavior layer for HW7, no changes were made.
 */
 
 
